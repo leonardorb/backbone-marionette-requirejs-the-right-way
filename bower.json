@@ -1,0 +1,23 @@
+{
+  "name": "backbone-marionette-requirejs-the-right-way",
+  "version": "0.0.1",
+  "authors": [
+    "Leo <rb.leonardo@gmail.com>"
+  ],
+  "description": "Backbone.js + Marionette.js + Require.js, the right way.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components/",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-bower": ">=2.1.18",
+    "jquery": ">=2.1.4",
+    "lodash": ">=3.5.0",
+    "backbone": ">=1.2.1",
+    "backbone.marionette": ">=2.4.2"
+  }
+}
